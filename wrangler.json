@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-tutorial",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5517e1a5-cd19-471b-a2aa-898f005eb8c4",
+      "database_name": "icy-morning-11f5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
